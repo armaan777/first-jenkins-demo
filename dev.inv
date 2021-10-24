@@ -1,2 +1,2 @@
 [dev]
-192.168.72.133 ansible_user=cent ansible_python_interpreter="/bin/python"
+192.168.72.133 ansible_user=cent 
