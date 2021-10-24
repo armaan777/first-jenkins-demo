@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2 stype="colour: red">Deployed using Jenkins, Ansible!! -2</h2>
+<h2 stype="colour: red">This is my first CI CD deployment using Jenkins</h2>
 </body>
 </html>
